@@ -1,0 +1,9 @@
+1) git init
+2) git branch hello
+3) git checkout hello
+4) git branch
+5) vim memo.txt
+*adding text to the file
+6) git add memo.txt
+7) git commit -m "git commit -m "add memofile to the hello branch"
+8) git remote add origin https://github.com/DaieCooper/Tasks.git
