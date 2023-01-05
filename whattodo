@@ -6,4 +6,5 @@
 *adding text to the file
 6) git add memo.txt
 7) git commit -m "git commit -m "add memofile to the hello branch"
-8) git remote add origin https://github.com/DaieCooper/Tasks.git
+8) git remote add gswg git@github.com:DaieCooper/Tasks.git
+9) git push gswg hello
